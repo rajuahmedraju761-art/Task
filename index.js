@@ -14,7 +14,7 @@ app.use("/api/tasks", taskRoutes);
 
 // Health check
 app.get("/", (req, res) => {
-  res.json({ message: "Task API is running 🚀" });
+  res.json({ message: "Task API is running " });
 });
 
 // 404 handler

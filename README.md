@@ -1,5 +1,8 @@
 # Task API
 
+> আমার আসল GitHub অ্যাকাউন্টে এখন প্রবেশ করতে পারতেছি না, কারণ সেই অ্যাকাউন্টের Two-Factor Authentication-এর সাথে যুক্ত সিম কার্ডটি হারিয়ে গেছে।
+> অ্যাসাইনমেন্ট জমা দেওয়ার জন্য  অ্যাকাউন্টটি ব্যবহার করেছি।
+
 A REST API built with **Node.js**, **Express**, and **MongoDB (Mongoose)**.
 
 ## Features
@@ -90,9 +93,3 @@ npm run dev        # development (nodemon)
 }
 ```
 
-## Environment Variables
-
-| Variable | Default | Description |
-|---|---|---|
-| `PORT` | `5000` | HTTP port |
-| `MONGO_URI` | `mongodb://localhost:27017/taskdb` | MongoDB connection string |
